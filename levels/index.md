@@ -25,7 +25,7 @@
 |23|<img src="iCcSyCcSy_SyCcSyCc_CcSyCcSy.png" alt="CcSyCcSy:SyCcSyCc:CcSyCcSy" width="50"/> 
 |24|<img src="iCcRcCcRc_RwCwRwCw_Sr--Sw--_CyCyCyCy.png" alt="CcRcCcRc:RwCwRwCw:Sr--Sw--:CyCyCyCy" width="50"/> 
 |25|<img src="iRg--Rg--_CwRwCwRw_--Rg--Rg.png" alt="Rg--Rg--:CwRwCwRw:--Rg--Rg" width="50"/> 
-|26|<img src="iCbCuCbCu_Sr------_--CrSrCr_CwCwCwCw.png" alt="drawCbCuCbCu:Sr------:--CrSrCr:CwCwCwCwing" width="50"/> 
+|26|<img src="iCbCuCbCu_Sr------_--CrSrCr_CwCwCwCw.png" alt="drawCbCuCbCu:Sr------:--CrSrCr:CwCwCwCwing" width="50"/> 123
 |27-35|
 |35-50|
 |51-75|
