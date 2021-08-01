@@ -12,7 +12,6 @@ a {font-weight: bold; color: #ddd;}
 .markdown-body>*:first-child {display:none;}
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  .markdown-body table {display: block;}
   .markdown-body table th {font-size:18px}
   .markdown-body table th, .markdown-body table td {padding: 3px 2px;}
 }
