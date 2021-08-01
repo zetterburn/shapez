@@ -4,7 +4,7 @@
 *,body { color: #eee; background-color:#333;}
 a {font-weight: bold;}
 tr:nth-child(even) {background-color: #444;}
-th, td {border: 0px solid #ffffff; border-bottom: 1px solid #eee;}
+.markdown-body table th, .markdown-body table td {border: 0px solid #ffffff; border-bottom: 1px solid #eee;}
 </style>
 
 | <span  title="The number of the level">Level</span>|<span  title="The shape requirement for the level.">Shape</span>|<span  title="The amount/speed requirement for the level.">Requirement</span>|<span  title="The reward for completing this level requirement.">Reward</span>|<span  title="The upgrade that this shape is first required for, if applicable.">Upgrade</span>|
