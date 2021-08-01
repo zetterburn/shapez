@@ -1,7 +1,7 @@
 # [Levels](https://zetterburn.github.io/shapez/levels/)
 
 <style>
-* { color: #ffffff; background-color:#333333}
+*,body { color: #fff; background-color:#333}
 a {font-weight: bold;}
 </style>
 
