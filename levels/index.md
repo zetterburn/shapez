@@ -3,7 +3,7 @@
 a {font-weight: bold; color: #ddd;}
 .markdown-body table th {font-size:20px}
 .markdown-body table {width:100%; display: table;}
-.markdown-body table tr:nth-child(2n) td, .markdown-body table tr th {background-color:#3b4550;}
+.markdown-body table tr:nth-child(2n) td, .markdown-body table tr th, .markdown-body table tr th span {background-color:#3b4550;}
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 {text-align: center;}
 .markdown-body h1 {font-size:2.5em}
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6, .markdown-body table th, .markdown-body table td, .markdown-body table tr {border: 0px solid #fff;}
