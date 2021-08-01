@@ -1,5 +1,7 @@
+# Levels #
+
 | <span  title="The number of the level">Level</span>|<span  title="The shape requirement for the level.">Shape</span>|<span  title="The amount/speed requirement for the level.">Requirement</span>|<span  title="The reward for completing this level requirement.">Reward</span>|<span  title="The upgrade that this shape is first required for, if applicable.">Upgrade</span>|
-|-|:-:|-|-|-|
+|:-:|:-:|-|-|-|
 |1 | <img  src="iCuCuCuCu.png"  alt="CuCuCuCu"  width="50"/> |30|[Cutter] and [Trash]|Belts (II)|
 |2|<img  src="i----CuCu.png"  alt="----CuCu"  width="50"/> |40|[Upgrades]|
 |3|<img  src="iRuRuRuRu.png"  alt="RuRuRuRu"  width="50"/> |70|[Balancer]|Extraction (II)|
@@ -13,7 +15,7 @@
 |11|<img  src="iCgScScCg.png"  alt="CgScScCg"  width="50"/> |1,000|[Chained Extractor]|Cutting (IV)|
 |12|<img  src="iCbCbCbRb_CwCwCwCw.png"  alt="CbCbCbRb:CwCwCwCw"  width="50"/> |1,000|[Blueprints]|
 |13|<img  src="iRpRpRpRp_CwCwCwCw.png"  alt="RpRpRpRp:CwCwCwCw"  width="50"/> |3,800|[Tunnel (Tier 2)]|Mixing (IV)|
-|14|<img  src="i--Cg----_--Cr----.png"  alt="--Cg----:--Cr----"  width="50"/> |8 / s|[Belt Reader]|
+|14|<img  src="i--Cg----_--Cr----.png"  alt="--Cg----:--Cr----"  width="50"/> |8/s|[Belt Reader]|
 |15|<img  src="iSrSrSrSr_CyCyCyCy.png"  alt="SrSrSrSr:CyCyCyCy"  width="50"/> |10,000|[Storage]|Belts (V)
 |16|<img  src="iSrSrSrSr_CyCyCyCy_SwSwSwSw.png"  alt="SrSrSrSr:CyCyCyCy:SwSwSwSw"  width="50"/> |6,000|[Quad Cutter]|Belts (VI)
 |17|<img  src="iCbRbRbCb_CwCwCwCw_WbWbWbWb.png"  alt="CbRbRbCb:CwCwCwCw:WbWbWbWb"  width="50"/> |20,000|[Double Painter]|Extraction (VI)
@@ -26,10 +28,10 @@
 |24|<img  src="iCcRcCcRc_RwCwRwCw_Sr--Sw--_CyCyCyCy.png"  alt="CcRcCcRc:RwCwRwCw:Sr--Sw--:CyCyCyCy"  width="50"/> |25,000|[Logic Gates]|
 |25|<img  src="iRg--Rg--_CwRwCwRw_--Rg--Rg.png"  alt="Rg--Rg--:CwRwCwRw:--Rg--Rg"  width="50"/> |25,000|[Virtual Processing]|
 |26|<img  src="iCbCuCbCu_Sr------_--CrSrCr_CwCwCwCw.png"  alt="drawCbCuCbCu:Sr------:--CrSrCr:CwCwCwCwing"  width="50"/> |50,000|[Freeplay]|All (IX+)|
-|27 - 35| Random,<br/>2 layers,<br/>No uncolored|4/s -<br/>6/s | Next Level|
-|36 - 50| Random,<br/>2 layers|6.25/s -<br/>9.75/s | Next Level|
-|51 - 75| Random,<br/>3 layers|10/s -<br/>16/s | Next Level|
-|76 +| Random,<br/>4 layers,<br/>Missing pieces|16.25/s -<br/>200/s | Next Level|
+|27 - 35| Random,<br/>2 layers,<br/>No uncolored|4/s - 6/s | Next Level|
+|36 - 50| Random,<br/>2 layers|6.25/s - 9.75/s | Next Level|
+|51 - 75| Random,<br/>3 layers|10/s - 16/s | Next Level|
+|76 +| Random,<br/>4 layers,<br/>Missing pieces|16.25/s - 200/s | Next Level|
 
   
 
@@ -58,7 +60,7 @@
 *[Stacker]: 1:8 Ratio
 [stacker]: https://zetterburn.github.io/shapez/machines/stacker/
 *[Upgrades]: The ability to upgrade machine processing speeds
-[upgrades]: https://zetterburn.github.io/shapez/upgrades/
+[upgrades]: https://zetterburn.github.io/shapez/mechanics/upgrades/
 *[Trash]: Trash belt objects
 [trash]: https://zetterburn.github.io/shapez/machines/trash/
 *[Tunnel]: 4-tile gap
@@ -71,3 +73,23 @@
 [merger]: https://zetterburn.github.io/shapez/machines/balancer/
 *[Balancer]: Split, merge, or evenly distribute 2 lanes
 [balancer]: https://zetterburn.github.io/shapez/machines/balancer/
+*[Blueprints]: Currency for copying, cutting, and pasting machines
+[blueprints]: https://zetterburn.github.io/shapez/mechanics/blueprints/
+*[Belt Reader]: Split, merge, or evenly distribute 2 lanes
+[belt reader]: https://zetterburn.github.io/shapez/machines/beltreader/
+*[Storage]: https://zetterburn.github.io/shapez/machines/storage/
+[storage]: Store up to 5,000 of one shape unit. Can be used as an overflow gate.
+*[Wires]: https://zetterburn.github.io/shapez/mechanics/wires/
+[wires]: Connect machines to switches, logic gates, signals, and more.
+*[Filter]:
+[filter]:
+*[Constant Signal]: https://zetterburn.github.io/shapez/machines/signal/
+[constant signal]: 
+*[Display]: https://zetterburn.github.io/shapez/machines/display/
+[display]: 
+*[Logic Gates]: https://zetterburn.github.io/shapez/machines/logic/
+[logic gates]: 
+*[Virtual Processing]: https://zetterburn.github.io/shapez/machines/processing/
+[virtual processing]: 
+*[Freeplay]: https://zetterburn.github.io/shapez/mechanics/freeplay/
+[freeplay]:
