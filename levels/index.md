@@ -1,7 +1,7 @@
 # [Levels](https://zetterburn.github.io/shapez/levels/)
 
 <style>
-a { text-decoration-color: #000000;}
+* { color: #000000;}
 </style>
 
 | <span  title="The number of the level">Level</span>|<span  title="The shape requirement for the level.">Shape</span>|<span  title="The amount/speed requirement for the level.">Requirement</span>|<span  title="The reward for completing this level requirement.">Reward</span>|<span  title="The upgrade that this shape is first required for, if applicable.">Upgrade</span>|
