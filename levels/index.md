@@ -50,7 +50,7 @@ a {font-weight: bold; color: #ddd;}
 |24|<img src="iCcRcCcRc_RwCwRwCw_Sr--Sw--_CyCyCyCy.png"  alt="CcRcCcRc:RwCwRwCw:Sr--Sw--:CyCyCyCy"  width="50"/> |25,000|[Logic Gates]|
 |25|<img src="iRg--Rg--_CwRwCwRw_--Rg--Rg.png"  alt="Rg--Rg--:CwRwCwRw:--Rg--Rg"  width="50"/> |25,000|[Virtual Processing]|
 |26|<img src="iCbCuCbCu_Sr------_--CrSrCr_CwCwCwCw.png"  alt="drawCbCuCbCu:Sr------:--CrSrCr:CwCwCwCwing"  width="50"/> |50,000|[Freeplay]|All (IX+)|
-|27 - 35| Random,<br/>2 layers,<br/>No uncolored|4/s - 6/s | Next Level|
+|27 - 35| Random,<br/>2 layers,<br/>No gray|4/s - 6/s | Next Level|
 |36 - 50| Random,<br/>2 layers|6.25/s - 9.75/s | Next Level|
 |51 - 75| Random,<br/>3 layers|10/s - 16/s | Next Level|
 |76 +| Random,<br/>4 layers,<br/>Missing pieces|16.25/s - 200/s | Next Level|
