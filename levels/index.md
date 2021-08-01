@@ -1,17 +1,19 @@
-# [Levels](https://zetterburn.github.io/shapez/levels/)
-
 <style>
 *,body { color: #eee; background-color:#27313b;}
-a {font-weight: bold; color: #ddd}
+a {font-weight: bold; color: #ddd;}
 .markdown-body table th {font-size:18px}
-.markdown-body table {width:100%}
-.markdown-body table tr:nth-child(2n) td {background-color:#3b4550}
+.markdown-body table {width:100%; display: table;}
+.markdown-body table tr:nth-child(2n) td {background-color:#3b4550;}
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 {text-align: center;}
+.markdown-body h1 {font-size:2.5em}
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6, .markdown-body table th, .markdown-body table td, .markdown-body table tr {border: 0px solid #fff;}
-.markdown-body>*:first-child {display:none}
+.markdown-body>*:first-child {display:none;}
 </style>
 
+# [Levels](https://zetterburn.github.io/shapez/levels/)
+
 | <span  title="The number of the level">Level</span>|<span  title="The shape requirement for the level.">Shape</span>|<span  title="The amount/speed requirement for the level.">Requirement</span>|<span  title="The reward for completing this level requirement.">Reward</span>|<span  title="The upgrade that this shape is first required for, if applicable.">Upgrade</span>|
-|:-:|:-:|:-:|:-:|-|
+|:-:|:-:|:-:|:-:|:-:|
 |1 |<img src="iCuCuCuCu.png"  alt="CuCuCuCu"  width="50"/> |30|[Cutter] and [Trash]|Belts (II)|
 |2|<img src="i----CuCu.png"  alt="----CuCu"  width="50"/> |40|[Upgrades]|
 |3|<img src="iRuRuRuRu.png"  alt="RuRuRuRu"  width="50"/> |70|[Balancer]|Extraction (II)|
