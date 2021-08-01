@@ -8,6 +8,12 @@ a {font-weight: bold; color: #ddd;}
 .markdown-body h1 {font-size:2.5em}
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6, .markdown-body table th, .markdown-body table td, .markdown-body table tr {border: 0px solid #fff;}
 .markdown-body>*:first-child {display:none;}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .markdown-body table {display: block;}
+  .markdown-body table th {font-size:18px}
+  .markdown-body table th, .markdown-body table td {padding: 3px 2px;}
+}
 </style>
 
 # [Levels](https://zetterburn.github.io/shapez/levels/)
