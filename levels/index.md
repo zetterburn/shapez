@@ -1,5 +1,6 @@
 <style>
 *,body { color: #eee; background-color:#27313b;}
+body {margin:0px}
 a {font-weight: bold; color: #ddd;}
 .markdown-body table th {font-size:20px}
 .markdown-body table {width:100%; display: table;}
