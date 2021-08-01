@@ -1,10 +1,6 @@
 # [Levels](https://zetterburn.github.io/shapez/levels/)
 
-<style>
-black {color: black; text-decoration-color: black }
-</style>
-
-<black>
+<span style="text-decoration-color:black;">
 
 | <span  title="The number of the level">Level</span>|<span  title="The shape requirement for the level.">Shape</span>|<span  title="The amount/speed requirement for the level.">Requirement</span>|<span  title="The reward for completing this level requirement.">Reward</span>|<span  title="The upgrade that this shape is first required for, if applicable.">Upgrade</span>|
 |:-:|:-:|:-:|:-:|-|
@@ -39,7 +35,9 @@ black {color: black; text-decoration-color: black }
 |51 - 75| Random,<br/>3 layers|10/s - 16/s | Next Level|
 |76 +| Random,<br/>4 layers,<br/>Missing pieces|16.25/s - 200/s | Next Level|
 
-</black>
+</span>
+
+asdasdasd
 
 *[Cutter]: 1:4 Ratio. Cut a shape into halves.
 [cutter]: https://zetterburn.github.io/shapez/machines/cutter/
