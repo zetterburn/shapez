@@ -3,7 +3,7 @@
 body {margin:0px}
 a {font-weight: bold; color: #ddd;}
 .px-3, {padding:0px !important}
-.my-5 {margin:0px !important}
+.my-5 {margin-top:0px !important;margin-bottom:0px !important;}
 .markdown-body table th {font-size:20px}
 .markdown-body table {width:100%; display: table;}
 .markdown-body table tr:nth-child(2n) td, .markdown-body table tr th, .markdown-body table tr th span {background-color:#3b4550;}
