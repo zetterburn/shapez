@@ -35,61 +35,61 @@
 
   
 
-*[Cutter]: 1:4 Ratio
+*[Cutter]: 1:4 Ratio. Cut a shape into halves.
 [cutter]: https://zetterburn.github.io/shapez/machines/cutter/
-*[Quad Cutter]: 1:4 Ratio
+*[Quad Cutter]: 1:4 Ratio. Cut a shape into fourths.
 [quad cutter]: https://zetterburn.github.io/shapez/machines/quadcutter/
-*[Extractor]: 1:5 Ratio
+*[Extractor]: 1:5 Ratio. Extract shapes from source tiles.
 [extractor]: https://zetterburn.github.io/shapez/machines/extractor/
-*[Chained Extractor]: 1:5 Ratio
+*[Chained Extractor]: 1:5 Ratio. An extractor that can be chained into itself.
 [chained extractor]: https://zetterburn.github.io/shapez/machines/chainedextractor/
-*[Rotator (CW)]: 1:1 Ratio
+*[Rotator (CW)]: 1:1 Ratio. Rotate a shape 90° clockwise.
 [rotator (cw)]: https://zetterburn.github.io/shapez/machines/rotator/
-*[Rotator (CCW)]: 1:1 Ratio
+*[Rotator (CCW)]: 1:1 Ratio. Rotate a shape 90° counter-clockwise.
 [rotator (ccw)]: https://zetterburn.github.io/shapez/machines/ccwrotator/
-*[Rotator (180°)]: 1:1 Ratio
+*[Rotator (180°)]: 1:1 Ratio. Rotate a shape 180°.
 [rotator (180°)]: https://zetterburn.github.io/shapez/machines/180rotator/
-*[Painter]: 1:6 Ratio
+*[Painter]: 1:6 Ratio. Applies a color to a shape on all quadrants and layers.
 [painter]: https://zetterburn.github.io/shapez/machines/painter/
-*[Double Painter]: 2:9 Ratio
+*[Double Painter]: 2:9 Ratio. A painter that paints 2 shapes per color.
 [double painter]: https://zetterburn.github.io/shapez/machines/doublepainter/
-*[Quad Painter]: 1:2 Ratio
+*[Quad Painter]: 1:2 Ratio. A painter that paints individual quadrants on all layers.
 [quad painter]: https://zetterburn.github.io/shapez/machines/quadpainter/
-*[Color Mixer]: 1:5 Ratio
+*[Color Mixer]: 1:5 Ratio. Mixes two colors together.
 [color mixer]: https://zetterburn.github.io/shapez/machines/mixer/
-*[Stacker]: 1:8 Ratio
+*[Stacker]: 1:8 Ratio. Stackes two shapes together.
 [stacker]: https://zetterburn.github.io/shapez/machines/stacker/
-*[Upgrades]: The ability to upgrade machine processing speeds
+*[Upgrades]: The ability to upgrade machine processing speeds.
 [upgrades]: https://zetterburn.github.io/shapez/mechanics/upgrades/
-*[Trash]: Trash belt objects
+*[Trash]: Trashes belt objects.
 [trash]: https://zetterburn.github.io/shapez/machines/trash/
-*[Tunnel]: 4-tile gap
+*[Tunnel]: Transport items underground, up to a 4-tile gap.
 [tunnel]: https://zetterburn.github.io/shapez/machines/tunnel/
-*[Tunnel (Tier 2)]: 8-tile gap
+*[Tunnel (Tier 2)]: Transport items underground, up to an 8-tile gap.
 [tunnel (tier 2)]: https://zetterburn.github.io/shapez/machines/tunnel2/
-*[Splitter]: Split objects into 2 lanes
+*[Splitter]: Split objects into 2 lanes.
 [splitter]: https://zetterburn.github.io/shapez/machines/splitter/
-*[Merger]: Merge 2 lanes into one
+*[Merger]: Merge 2 lanes into one.
 [merger]: https://zetterburn.github.io/shapez/machines/balancer/
-*[Balancer]: Split, merge, or evenly distribute 2 lanes
+*[Balancer]: Split, merge, or evenly distribute 2 lanes.
 [balancer]: https://zetterburn.github.io/shapez/machines/balancer/
-*[Blueprints]: Currency for copying, cutting, and pasting machines
+*[Blueprints]: Currency for copying, cutting, and pasting machines.
 [blueprints]: https://zetterburn.github.io/shapez/mechanics/blueprints/
-*[Belt Reader]: Split, merge, or evenly distribute 2 lanes
+*[Belt Reader]: Split, merge, or evenly distribute 2 lanes.
 [belt reader]: https://zetterburn.github.io/shapez/machines/beltreader/
-*[Storage]: https://zetterburn.github.io/shapez/machines/storage/
-[storage]: Store up to 5,000 of one shape unit. Can be used as an overflow gate.
-*[Wires]: https://zetterburn.github.io/shapez/mechanics/wires/
-[wires]: Connect machines to switches, logic gates, signals, and more.
-*[Filter]:
-[filter]:
-*[Constant Signal]: https://zetterburn.github.io/shapez/machines/signal/
-[constant signal]: 
-*[Display]: https://zetterburn.github.io/shapez/machines/display/
-[display]: 
-*[Logic Gates]: https://zetterburn.github.io/shapez/machines/logic/
-[logic gates]: 
-*[Virtual Processing]: https://zetterburn.github.io/shapez/machines/processing/
-[virtual processing]: 
-*[Freeplay]: https://zetterburn.github.io/shapez/mechanics/freeplay/
-[freeplay]:
+*[Storage]: Store up to 5,000 of one shape unit. Can be used as an overflow gate.
+[storage]: https://zetterburn.github.io/shapez/machines/storage/
+*[Wires]: Connect machines to switches, logic gates, signals, and more.
+[wires]: https://zetterburn.github.io/shapez/mechanics/wires/
+*[Filter]: Recieves a signal that determines which direction shapes pass through.
+[filter]: https://zetterburn.github.io/shapez/machines/filter/
+*[Constant Signal]: Emits a constant signal (shape/color/boolean).
+[constant signal]: https://zetterburn.github.io/shapez/machines/signal/
+*[Display]: Shows a visual representation of a signal from the wires layer.
+[display]: https://zetterburn.github.io/shapez/machines/display/
+*[Logic Gates]: Emits a boolean value when the right condition is met.
+[logic gates]: https://zetterburn.github.io/shapez/machines/logic/
+*[Virtual Processing]: Machines to process shape signals.
+[virtual processing]: https://zetterburn.github.io/shapez/machines/processing/
+*[Freeplay]: Levels after level 26, requiring randomized shapes.
+[freeplay]: https://zetterburn.github.io/shapez/mechanics/freeplay/
