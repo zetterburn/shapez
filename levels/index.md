@@ -3,7 +3,7 @@
 <style>
 *,body { color: #eee; background-color:#333;}
 a {font-weight: bold;}
-tr:nth-child(even) {background-color: #444;}
+.markdown-body table tr:nth-child(even) {background-color: #444;}
 .markdown-body table th, .markdown-body table td {border: 0px solid #ffffff; border-bottom: 1px solid #eee;}
 </style>
 
