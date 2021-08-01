@@ -1,10 +1,11 @@
 # [Levels](https://zetterburn.github.io/shapez/levels/)
 
 <style>
-*,body { color: #eee; background-color:#333;}
+*,body { color: #eee; background-color:#27313b;}
 a {font-weight: bold; color: #ddd}
 .markdown-body table th {font-size:18px}
-.markdown-body table tr:nth-child(2n) td {background-color:#444}
+.markdown-body table {width:100%}
+.markdown-body table tr:nth-child(2n) td {background-color:#3b4550}
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6, .markdown-body table th, .markdown-body table td, .markdown-body table tr {border: 0px solid #fff;}
 .markdown-body>*:first-child {display:none}
 </style>
