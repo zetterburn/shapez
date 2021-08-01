@@ -24,7 +24,7 @@ a {font-weight: bold; color: #ddd;}
 
 | <span  title="The number of the level">Level</span>|<span  title="The shape requirement for the level.">Shape</span>|<span  title="The amount/speed requirement for the level.">Amount</span>|<span  title="The reward for completing this level requirement.">Reward</span>|<span  title="The upgrade that this shape is first required for, if applicable.">Upgrade</span>|
 |:-:|:-:|:-:|:-:|:-:|
-|1 |<img src="iCuCuCuCu.png"  alt="CuCuCuCu"  width="50"/> |30|[Cutter] and [Trash]|Belts (II)|
+|1 |<img src="iCuCuCuCu.png"  alt="CuCuCuCu"  width="50"/> |30|[Cutter]<br/>[Trash]|Belts (II)|
 |2|<img src="i----CuCu.png"  alt="----CuCu"  width="50"/> |40|[Upgrades]|
 |3|<img src="iRuRuRuRu.png"  alt="RuRuRuRu"  width="50"/> |70|[Balancer]|Extraction (II)|
 |4|<img src="iRuRu----.png"  alt="RuRu----"  width="50"/> |70|[Rotator (CW)]|Cutting (III)|
@@ -43,7 +43,7 @@ a {font-weight: bold; color: #ddd;}
 |17|<img src="iCbRbRbCb_CwCwCwCw_WbWbWbWb.png"  alt="CbRbRbCb:CwCwCwCw:WbWbWbWb"  width="50"/> |20,000|[Double Painter]|Extraction (VI)
 |18|<img src="iSg----Sg_CgCgCgCg_--CyCy--.png"  alt="Sg----Sg:CgCgCgCg:--CyCy--"  width="50"/> |20,000|[Rotator (180°)]|
 |19|<img src="iCpRpCp--_SwSwSwSw.png"  alt="CpRpCp--:SwSwSwSw"  width="50"/> |25,000|[Splitter]|All (VII+)
-|20|<img src="iRuCw--Cw_----Ru--.png"  alt="RuCw--Cw:----Ru--"  width="50"/> |25,000|[Wires] and [Quad Painter]|All (VIII+)|
+|20|<img src="iRuCw--Cw_----Ru--.png"  alt="RuCw--Cw:----Ru--"  width="50"/> |25,000|[Wires]<br/>[Quad Painter]|All (VIII+)|
 |21|<img src="iCrCwCrCw_CwCrCwCr_CrCwCrCw_CwCrCwCr.png"  alt="CrCwCrCw:CwCrCwCr:CrCwCrCw:CwCrCwCr"  width="50"/> |25,000|[Filter]|
 |22|<img src="iCg----Cr_Cw----Cw_Sy------_Cy----Cy.png"  alt="Cg----Cr:Cw----Cw:Sy------:Cy----Cy"  width="50"/> |25,000|[Constant Signal]|
 |23|<img src="iCcSyCcSy_SyCcSyCc_CcSyCcSy.png"  alt="CcSyCcSy:SyCcSyCc:CcSyCcSy"  width="50"/> |25,000|[Display]|
