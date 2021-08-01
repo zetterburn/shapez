@@ -3,6 +3,7 @@
 body {margin:0px}
 a {font-weight: bold; color: #ddd;}
 .markdown-body table tr td:first-child {font-weight: bold;}
+.markdown-body table tr td:first-child {font-size: 14px;}
 .px-3 {padding:0px !important}
 .my-5 {margin-top:0px !important;margin-bottom:0px !important;}
 .markdown-body table th {font-size:20px}
