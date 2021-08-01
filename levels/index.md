@@ -1,7 +1,7 @@
 <style>
 *,body { color: #eee; background-color:#27313b;}
 a {font-weight: bold; color: #ddd;}
-.markdown-body table th {font-size:18px}
+.markdown-body table th {font-size:20px}
 .markdown-body table {width:100%; display: table;}
 .markdown-body table tr:nth-child(2n) td {background-color:#3b4550;}
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 {text-align: center;}
