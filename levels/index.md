@@ -3,7 +3,8 @@
 <style>
 *,body { color: #eee; background-color:#333;}
 a {font-weight: bold; color: #ddd}
-.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6, .markdown-body table th, .markdown-body table td {border: 0px solid #fff; border-bottom: 0px solid #fff}
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6, .markdown-body table th, .markdown-body table td, .markdown-body table tr {border: 0px solid #fff;}
+.markdown-body>*:first-child {display:none}
 </style>
 
 | <span  title="The number of the level">Level</span>|<span  title="The shape requirement for the level.">Shape</span>|<span  title="The amount/speed requirement for the level.">Requirement</span>|<span  title="The reward for completing this level requirement.">Reward</span>|<span  title="The upgrade that this shape is first required for, if applicable.">Upgrade</span>|
