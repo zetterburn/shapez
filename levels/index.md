@@ -1,7 +1,7 @@
 # Levels #
 
 | <span  title="The number of the level">Level</span>|<span  title="The shape requirement for the level.">Shape</span>|<span  title="The amount/speed requirement for the level.">Requirement</span>|<span  title="The reward for completing this level requirement.">Reward</span>|<span  title="The upgrade that this shape is first required for, if applicable.">Upgrade</span>|
-|:-:|:-:|-|-|-|
+|:-:|:-:|:-:|:-:|-|
 |1 | <img  src="iCuCuCuCu.png"  alt="CuCuCuCu"  width="50"/> |30|[Cutter] and [Trash]|Belts (II)|
 |2|<img  src="i----CuCu.png"  alt="----CuCu"  width="50"/> |40|[Upgrades]|
 |3|<img  src="iRuRuRuRu.png"  alt="RuRuRuRu"  width="50"/> |70|[Balancer]|Extraction (II)|
