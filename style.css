@@ -21,6 +21,10 @@ table td {
     padding: 5px 0px;
 }
 
+table td img {
+    width: 50px;
+}
+
 table tr td:nth-child(2) {
     font-size: 14px;
 }
