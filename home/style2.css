@@ -165,9 +165,10 @@
     font-weight: 700;
     position: absolute;
     left: 16px;
-    top:8px;
+    top:6px;
     line-height: 60px;
     cursor: pointer;
     opacity: 1;
     transition: all 0.3s linear;
 }
+
