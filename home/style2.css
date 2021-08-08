@@ -30,6 +30,7 @@
     overflow: hidden;
     transition: all 0.3s linear;
     backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
 }
 
 .sidebar_menu .logo {
