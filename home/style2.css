@@ -9,6 +9,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Ultima', 'Poppins', sans-serif;
+    text-decoration: none;
 }
 
 .main_box {
@@ -80,7 +81,7 @@
 
 .sidebar_menu .menu li:hover{
     transition: all 0.2s linear;
-    transform: scaleX(1.1) translateX(5px);
+    transform: scaleX(1.1) translateY(5px);
     box-shadow: 0 0 12px rgba(0, 0, 0, 0.25);
 }
 
@@ -93,13 +94,17 @@
     cursor: pointer;
 }
 
+.sidebar_menu .social_media ul{
+    width: 175px;
+}
+
 .sidebar_menu .menu_footer {
     position: absolute;
     list-style: none;
     box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.25);
     bottom:0px;
     width:100%;
-    height: 60px;
+    height: 70px;
 }
 
 .sidebar_menu .social_media i {
@@ -107,7 +112,7 @@
     padding: 0 5px;
     color: #fff;
     opacity: 0.6;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .sidebar_menu .social_media i:hover {
